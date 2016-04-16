@@ -104,23 +104,23 @@ public class PlayerScript : MonoBehaviour {
 		switch(toWhat){
 		case("Square"):
 			Speed = 1.0f;
-			Jump = 1.0f;
+			JumpAmount = 1.0f;
 			_canDoubleJump = false;
 			break;
 		case("Circle"):
 			Speed = 2.0f;
-			Jump = 0.2f;
+			JumpAmount = 0.2f;
 			_canDoubleJump = false;
 			break;
 		case("Trianlgle"):
 			Speed = 0.75f;
-			Jump = 1.2f;
+			JumpAmount = 1.2f;
 			_canDoubleJump = true;
 			break;
 		default:
 			CurrentShape = "Square";
 			Speed = 1.0f;
-			Jump = 1.0f;
+			JumpAmount = 1.0f;
 			_canDoubleJump = false;
 			Debug.Log("Defaulted to Square.");
 			break;
@@ -130,8 +130,7 @@ public class PlayerScript : MonoBehaviour {
 	#region Speech Bubble Stuff
 	public void ShowSpeechBubble(string speech,float dismissAfter, float height, float width){
 		SpeechBubbleText.text = speech;
-		SpeechBubbleRect.rect.height = height;
-		SpeechBubbleRect.rect.width = width;
+		SpeechBubbleRect.sizeDelta = new Vector2(width,height);
 		LeanTween.alphaCanvas(SpeechBubble,1.0f,0.25f).setOnComplete(() => {
 			_dismissTime = dismissAfter;
 			_currentDismissTime = 0.0f;

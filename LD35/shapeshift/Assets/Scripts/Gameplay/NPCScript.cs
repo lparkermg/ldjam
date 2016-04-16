@@ -28,8 +28,7 @@ public class NPCScript : MonoBehaviour {
 	#region Speech Bubble Stuff
 	public void ShowSpeechBubble(string speech,float dismissAfter,float height, float width){
 		SpeechBubbleText.text = speech;
-		SpeechBubbleRect.rect.height = height;
-		SpeechBubbleRect.rect.width = width;
+		SpeechBubbleRect.sizeDelta = new Vector2(width,height);
 		LeanTween.alphaCanvas(SpeechBubble,1.0f,0.25f).setOnComplete(() => {
 			_dismissTime = dismissAfter;
 			_currentDismissTime = 0.0f;
