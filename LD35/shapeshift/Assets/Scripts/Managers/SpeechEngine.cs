@@ -10,7 +10,7 @@ public class SpeechEngine : MonoBehaviour {
 
 	public string[] SquareToCircle;
 	public string[] SquareToSquare;
-	public string SquareToTriangle;
+	public string[] SquareToTriangle;
 
 	public string[] CircleToCircle;
 	public string[] CircleToSquare;
@@ -32,7 +32,7 @@ public class SpeechEngine : MonoBehaviour {
 		if(npcType == "Triangle"){
 			switch(playerType){
 			case("Square"):
-				return RandomText(GenericSpeech,TriangleToSquare);
+				return RandomText(new string[] {},TriangleToSquare);
 			case("Triangle"):
 				return RandomText(GenericSpeech,TriangleToTriangle);
 			case("Circle"):
@@ -46,7 +46,7 @@ public class SpeechEngine : MonoBehaviour {
 			case("Square"):
 				return RandomText(GenericSpeech,SquareToSquare);
 			case("Triangle"):
-				return SquareToTriangle;
+				return RandomText(GenericSpeech,SquareToTriangle);
 			case("Circle"):
 				return RandomText(GenericSpeech,SquareToCircle);
 			default:
