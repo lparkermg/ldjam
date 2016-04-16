@@ -21,6 +21,9 @@ public class PlayerScript : MonoBehaviour {
 	//Shape Shifting Stuff
 	public string CurrentShape;
 
+	public bool CanCircle = false;
+	public bool CanTriangle = false;
+
 	//Ingame  interation stuff (UI)
 	public CanvasGroup SpeechBubble;
 	public RectTransform SpeechBubbleRect;

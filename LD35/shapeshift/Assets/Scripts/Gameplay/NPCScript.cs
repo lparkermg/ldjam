@@ -13,6 +13,8 @@ public class NPCScript : MonoBehaviour {
 	private float _dismissTime = 2.0f;
 	private float _currentDismissTime = 0.0f;
 
+	public string AiShape = "Square";
+
 	// Use this for initialization
 	void Start () {
 		
