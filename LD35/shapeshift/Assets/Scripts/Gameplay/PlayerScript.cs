@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -20,7 +21,13 @@ public class PlayerScript : MonoBehaviour {
 	//Shape Shifting Stuff
 	public string CurrentShape;
 
+	//Ingame  interation stuff (UI)
+	public CanvasGroup SpeechBubble;
+	public Text SpeechBubbleText;
 
+	private bool _needsDismissing = false;
+	private float _dismissTime = 2.0f;
+	private float _currentDismissTime = 0.0f;
 
 	// Use this for initialization
 	void Start () {
@@ -30,6 +37,7 @@ public class PlayerScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		InputCheck();
+		DismissCheck();
 	}
 
 	void OnCollisionEnter2D(Collision2D collision){
@@ -55,6 +63,17 @@ public class PlayerScript : MonoBehaviour {
 			ShapeShift("Triangle");
 		}
 
+	}
+
+	void DismissCheck(){
+		if(_needsDismissing){
+			if(_dismissTime < _currentDismissTime){
+				DismissSpeechBubble();
+			}
+			else{
+				_currentDismissTime += Time.deltaTime;
+			}
+		}
 	}
 
 	void Move(float axisAmount){
@@ -103,4 +122,22 @@ public class PlayerScript : MonoBehaviour {
 			break;
 		}
 	}
+
+	#region Speech Bubble Stuff
+	public void ShowSpeechBubble(string speech,float dismissAfter){
+		SpeechBubbleText.text = speech;
+		LeanTween.alphaCanvas(SpeechBubble,1.0f,0.25f).setOnComplete(() => {
+			_dismissTime = dismissAfter;
+			_currentDismissTime = 0.0f;
+			_needsDismissing = true;
+		});
+	}
+
+	public void DismissSpeechBubble(){
+		LeanTween.alphaCanvas(SpeechBubble,0.0f,0.25f).setOnComplete(() => {
+			_needsDismissing = false;
+		});
+	}
+
+	#endregion
 }
