@@ -23,6 +23,7 @@ public class PlayerScript : MonoBehaviour {
 
 	//Ingame  interation stuff (UI)
 	public CanvasGroup SpeechBubble;
+	public RectTransform SpeechBubbleRect;
 	public Text SpeechBubbleText;
 
 	private bool _needsDismissing = false;
@@ -31,7 +32,7 @@ public class PlayerScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		_rigidBody = GetComponent<Rigidbody2D>();
 	}
 	
 	// Update is called once per frame
@@ -124,8 +125,10 @@ public class PlayerScript : MonoBehaviour {
 	}
 
 	#region Speech Bubble Stuff
-	public void ShowSpeechBubble(string speech,float dismissAfter){
+	public void ShowSpeechBubble(string speech,float dismissAfter, float height, float width){
 		SpeechBubbleText.text = speech;
+		SpeechBubbleRect.rect.height = height;
+		SpeechBubbleRect.rect.width = width;
 		LeanTween.alphaCanvas(SpeechBubble,1.0f,0.25f).setOnComplete(() => {
 			_dismissTime = dismissAfter;
 			_currentDismissTime = 0.0f;
