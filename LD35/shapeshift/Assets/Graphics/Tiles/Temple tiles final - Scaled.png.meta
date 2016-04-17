@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: cfb44b8cd61bc44e19b29c300f848aae
+timeCreated: 1460903448
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Temple tiles final - Scaled_0
+    21300002: Temple tiles final - Scaled_1
+    21300004: Temple tiles final - Scaled_2
+    21300006: Temple tiles final - Scaled_3
+    21300008: Temple tiles final - Scaled_4
+    21300010: Temple tiles final - Scaled_5
+    21300012: Temple tiles final - Scaled_6
+    21300014: Temple tiles final - Scaled_7
+    21300016: Temple tiles final - Scaled_8
+    21300018: Temple tiles final - Scaled_9
+    21300020: Temple tiles final - Scaled_10
+    21300022: Temple tiles final - Scaled_11
+    21300024: Temple tiles final - Scaled_12
+    21300026: Temple tiles final - Scaled_13
+    21300028: Temple tiles final - Scaled_14
+    21300030: Temple tiles final - Scaled_15
+    21300032: Temple tiles final - Scaled_16
+    21300034: Temple tiles final - Scaled_17
+    21300036: Temple tiles final - Scaled_18
+    21300038: Temple tiles final - Scaled_19
+    21300040: Temple tiles final - Scaled_20
+    21300042: Temple tiles final - Scaled_21
+    21300044: Temple tiles final - Scaled_22
+    21300046: Temple tiles final - Scaled_23
+    21300048: Temple tiles final - Scaled_24
+    21300050: Temple tiles final - Scaled_25
+    21300052: Temple tiles final - Scaled_26
+    21300054: Temple tiles final - Scaled_27
+    21300056: Temple tiles final - Scaled_28
+    21300058: Temple tiles final - Scaled_29
+    21300060: Temple tiles final - Scaled_30
+    21300062: Temple tiles final - Scaled_31
+    21300064: Temple tiles final - Scaled_32
+    21300066: Temple tiles final - Scaled_33
+    21300068: Temple tiles final - Scaled_34
+    21300070: Temple tiles final - Scaled_35
+    21300072: Temple tiles final - Scaled_36
+    21300074: Temple tiles final - Scaled_37
+    21300076: Temple tiles final - Scaled_38
+    21300078: Temple tiles final - Scaled_39
+    21300080: Temple tiles final - Scaled_40
+    21300082: Temple tiles final - Scaled_41
+    21300084: Temple tiles final - Scaled_42
+    21300086: Temple tiles final - Scaled_43
+    21300088: Temple tiles final - Scaled_44
+    21300090: Temple tiles final - Scaled_45
+    21300092: Temple tiles final - Scaled_46
+    21300094: Temple tiles final - Scaled_47
+    21300096: Temple tiles final - Scaled_48
+    21300098: Temple tiles final - Scaled_49
+    21300100: Temple tiles final - Scaled_50
+    21300102: Temple tiles final - Scaled_51
+    21300104: Temple tiles final - Scaled_52
+    21300106: Temple tiles final - Scaled_53
+    21300108: Temple tiles final - Scaled_54
+    21300110: Temple tiles final - Scaled_55
+    21300112: Temple tiles final - Scaled_56
+    21300114: Temple tiles final - Scaled_57
+    21300116: Temple tiles final - Scaled_58
+    21300118: Temple tiles final - Scaled_59
+    21300120: Temple tiles final - Scaled_60
+    21300122: Temple tiles final - Scaled_61
+    21300124: Temple tiles final - Scaled_62
+    21300126: Temple tiles final - Scaled_63
+    21300128: Temple tiles final - Scaled_64
+    21300130: Temple tiles final - Scaled_65
+    21300132: Temple tiles final - Scaled_66
+    21300134: Temple tiles final - Scaled_67
+    21300136: Temple tiles final - Scaled_68
+    21300138: Temple tiles final - Scaled_69
+    21300140: Temple tiles final - Scaled_70
+    21300142: Temple tiles final - Scaled_71
+    21300144: Temple tiles final - Scaled_72
+    21300146: Temple tiles final - Scaled_73
+    21300148: Temple tiles final - Scaled_74
+    21300150: Temple tiles final - Scaled_75
+    21300152: Temple tiles final - Scaled_76
+    21300154: Temple tiles final - Scaled_77
+    21300156: Temple tiles final - Scaled_78
+    21300158: Temple tiles final - Scaled_79
+    21300160: Temple tiles final - Scaled_80
+    21300162: Temple tiles final - Scaled_81
+    21300164: Temple tiles final - Scaled_82
+    21300166: Temple tiles final - Scaled_83
+    21300168: Temple tiles final - Scaled_84
+    21300170: Temple tiles final - Scaled_85
+    21300172: Temple tiles final - Scaled_86
+    21300174: Temple tiles final - Scaled_87
+    21300176: Temple tiles final - Scaled_88
+    21300178: Temple tiles final - Scaled_89
+    21300180: Temple tiles final - Scaled_90
+    21300182: Temple tiles final - Scaled_91
+    21300184: Temple tiles final - Scaled_92
+    21300186: Temple tiles final - Scaled_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Temple tiles final - Scaled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 125
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 17}
+        - {x: -62.5, y: -17}
+        - {x: 62.5, y: -17}
+        - {x: 62.5, y: 17}
+    - name: Temple tiles final - Scaled_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 348
+        width: 127
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 16.5}
+        - {x: -63.5, y: -0.5}
+        - {x: -63.5, y: -16.5}
+        - {x: 63.5, y: -16.5}
+        - {x: 63.5, y: 16.5}
+    - name: Temple tiles final - Scaled_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 349
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: -0.5}
+        - {x: 35, y: 16.5}
+    - name: Temple tiles final - Scaled_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 361
+        width: 113
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 359
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 16.5}
+        - {x: -56.5, y: -16.5}
+        - {x: 56.5, y: -16.5}
+        - {x: 56.5, y: -11.5}
+        - {x: -12.5, y: 16.5}
+    - name: Temple tiles final - Scaled_5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 331
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 331
+        width: 125
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16.5}
+        - {x: -62.5, y: -16.5}
+        - {x: 62.5, y: -16.5}
+        - {x: 62.5, y: 16.5}
+    - name: Temple tiles final - Scaled_7
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 331
+        width: 125
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16.5}
+        - {x: -62.5, y: -16.5}
+        - {x: 62.5, y: -16.5}
+        - {x: 62.5, y: 16.5}
+    - name: Temple tiles final - Scaled_8
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 359
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 322
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 17}
+        - {x: -63, y: -17}
+        - {x: 63, y: -17}
+        - {x: 63, y: 17}
+    - name: Temple tiles final - Scaled_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 322
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_11
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 345
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16}
+        - {x: -62.5, y: -16}
+        - {x: 62.5, y: -16}
+        - {x: 62.5, y: 16}
+    - name: Temple tiles final - Scaled_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 295
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 16.5}
+        - {x: -63, y: -3.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 295
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 1.5}
+        - {x: 29, y: 16.5}
+    - name: Temple tiles final - Scaled_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 275
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16.5}
+        - {x: -30, y: 16.5}
+        - {x: -30, y: -16.5}
+        - {x: 30, y: -16.5}
+        - {x: 30, y: -12.5}
+        - {x: 7, y: 15.5}
+    - name: Temple tiles final - Scaled_16
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 292
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 292
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_18
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 292
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16}
+        - {x: -62.5, y: -16}
+        - {x: 62.5, y: -16}
+        - {x: 62.5, y: 16}
+    - name: Temple tiles final - Scaled_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 295
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 296
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_21
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 273
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 16.5}
+        - {x: -10.5, y: 7.5}
+        - {x: -29.5, y: -9.5}
+        - {x: -29.5, y: -16.5}
+        - {x: 29.5, y: -16.5}
+        - {x: 29.5, y: 16.5}
+    - name: Temple tiles final - Scaled_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 16}
+    - name: Temple tiles final - Scaled_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 16}
+        - {x: -23, y: -16}
+        - {x: 23, y: -16}
+        - {x: 23, y: 16}
+    - name: Temple tiles final - Scaled_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 250
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -3}
+        - {x: -35, y: -9}
+        - {x: -35, y: -16}
+        - {x: 35, y: -16}
+        - {x: 35, y: 16}
+        - {x: 1, y: 16}
+    - name: Temple tiles final - Scaled_25
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 281
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 248
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 248
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 249
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 16}
+        - {x: -35, y: -16}
+        - {x: 35, y: -16}
+        - {x: 35, y: -4}
+        - {x: -8, y: 16}
+    - name: Temple tiles final - Scaled_29
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 247
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 17}
+        - {x: -63.5, y: -17}
+        - {x: 63.5, y: -17}
+        - {x: 63.5, y: 17}
+    - name: Temple tiles final - Scaled_30
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 247
+        width: 125
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 17}
+        - {x: -62.5, y: -17}
+        - {x: 62.5, y: -17}
+        - {x: 62.5, y: 17}
+    - name: Temple tiles final - Scaled_31
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 247
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 17}
+        - {x: -63, y: -17}
+        - {x: 63, y: -17}
+        - {x: 63, y: 17}
+    - name: Temple tiles final - Scaled_32
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 266
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 16.5}
+        - {x: -26.5, y: -16.5}
+        - {x: 26.5, y: -16.5}
+        - {x: 26.5, y: 16.5}
+    - name: Temple tiles final - Scaled_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 203
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 16.5}
+        - {x: -25.5, y: -16.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 16.5}
+    - name: Temple tiles final - Scaled_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 203
+        width: 127
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 16.5}
+        - {x: -63.5, y: -16.5}
+        - {x: 63.5, y: -16.5}
+        - {x: 63.5, y: 16.5}
+    - name: Temple tiles final - Scaled_36
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 200
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 227
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -16}
+        - {x: -58, y: -13}
+        - {x: -63, y: -13}
+        - {x: -63, y: -16}
+      - - {x: 0, y: 16}
+        - {x: -57, y: -13}
+        - {x: -57, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_38
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 228
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 58, y: -16.5}
+        - {x: 58, y: -11.5}
+        - {x: 0, y: 16.5}
+      - - {x: 58, y: -14.5}
+        - {x: 58, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: -12.5}
+        - {x: 60, y: -12.5}
+    - name: Temple tiles final - Scaled_39
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 184
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_40
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 185
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_41
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 205
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_42
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 206
+        width: 66
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_43
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 211
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_44
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 164
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 16.5}
+        - {x: -32.5, y: -16.5}
+        - {x: -18.5, y: -16.5}
+        - {x: 31.5, y: 5.5}
+        - {x: 32.5, y: 6.5}
+        - {x: 32.5, y: 16.5}
+    - name: Temple tiles final - Scaled_45
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 165
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 16.5}
+        - {x: -33, y: 5.5}
+        - {x: 19, y: -16.5}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+    - name: Temple tiles final - Scaled_46
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 195
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 125
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16.5}
+        - {x: -62.5, y: -16.5}
+        - {x: 62.5, y: -16.5}
+        - {x: 62.5, y: 16.5}
+    - name: Temple tiles final - Scaled_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 152
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 152
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_51
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 151
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_52
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 126
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16.5}
+        - {x: -8.5, y: 12.5}
+        - {x: -25.5, y: -6.5}
+        - {x: -25.5, y: -16.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 16.5}
+    - name: Temple tiles final - Scaled_53
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 128
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16.5}
+        - {x: -25, y: 16.5}
+        - {x: -25, y: -16.5}
+        - {x: 25, y: -16.5}
+        - {x: 25, y: -7.5}
+        - {x: 4, y: 13.5}
+    - name: Temple tiles final - Scaled_54
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 124
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_55
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 124
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_56
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 150
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_57
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 151
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 17}
+        - {x: -21, y: -17}
+        - {x: 21, y: -17}
+        - {x: 21, y: 17}
+    - name: Temple tiles final - Scaled_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 114
+        width: 127
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 16.5}
+        - {x: -63.5, y: -16.5}
+        - {x: 63.5, y: -16.5}
+        - {x: 63.5, y: 16.5}
+    - name: Temple tiles final - Scaled_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 114
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 114
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_62
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 116
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 16}
+        - {x: -62.5, y: -16}
+        - {x: 62.5, y: -16}
+        - {x: 62.5, y: 16}
+    - name: Temple tiles final - Scaled_63
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 86
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 16.5}
+        - {x: -27.5, y: 5.5}
+        - {x: -36.5, y: -9.5}
+        - {x: -36.5, y: -16.5}
+        - {x: 36.5, y: -16.5}
+        - {x: 36.5, y: 16.5}
+    - name: Temple tiles final - Scaled_64
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 87
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 16.5}
+        - {x: -36.5, y: 16.5}
+        - {x: -36.5, y: -16.5}
+        - {x: 36.5, y: -16.5}
+        - {x: 36.5, y: -10.5}
+        - {x: 28.5, y: 2.5}
+    - name: Temple tiles final - Scaled_65
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 105
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 16}
+        - {x: -32.5, y: -16}
+        - {x: 32.5, y: -16}
+        - {x: 32.5, y: 16}
+    - name: Temple tiles final - Scaled_66
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 106
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 16}
+        - {x: -33, y: -16}
+        - {x: 33, y: -16}
+        - {x: 33, y: 16}
+    - name: Temple tiles final - Scaled_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 46
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 16.5}
+        - {x: -22.5, y: -16.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 16.5}
+    - name: Temple tiles final - Scaled_68
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 42
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -63, y: -13}
+        - {x: -63, y: -17}
+        - {x: 63, y: -17}
+        - {x: 63, y: 17}
+    - name: Temple tiles final - Scaled_69
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 44
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: -11.5}
+        - {x: 13, y: 16.5}
+    - name: Temple tiles final - Scaled_70
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 71
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 17}
+        - {x: -63, y: -17}
+        - {x: 63, y: -17}
+        - {x: 63, y: 17}
+    - name: Temple tiles final - Scaled_71
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 72
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_72
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 58
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -17}
+        - {x: -37, y: -17}
+        - {x: -37, y: -15}
+        - {x: -39, y: -13}
+        - {x: -41, y: -13}
+      - - {x: -26, y: 17}
+        - {x: -29, y: -13}
+        - {x: -29, y: -17}
+        - {x: 41, y: -17}
+        - {x: 41, y: 17}
+    - name: Temple tiles final - Scaled_73
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 60
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -16.5}
+        - {x: 30, y: -0.5}
+        - {x: 28, y: 16.5}
+        - {x: -41, y: 16.5}
+        - {x: -41, y: -16.5}
+      - - {x: 37, y: -14.5}
+        - {x: 37, y: -16.5}
+        - {x: 41, y: -16.5}
+        - {x: 41, y: -12.5}
+        - {x: 39, y: -12.5}
+    - name: Temple tiles final - Scaled_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 46
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 41
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 40
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_77
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_78
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 53
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_79
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 53
+        width: 126
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_80
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 55
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_81
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 126
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 13.5}
+        - {x: -63, y: -20.5}
+        - {x: 63, y: -20.5}
+        - {x: 63, y: 13.5}
+      - - {x: -63, y: 20.5}
+        - {x: -63, y: 17.5}
+        - {x: -32, y: 17.5}
+        - {x: -30, y: 19.5}
+        - {x: -30, y: 20.5}
+      - - {x: 12, y: 20.5}
+        - {x: 13, y: 17.5}
+        - {x: 18, y: 17.5}
+        - {x: 20, y: 19.5}
+        - {x: 20, y: 20.5}
+      - - {x: 22, y: 20.5}
+        - {x: 23, y: 17.5}
+        - {x: 27, y: 17.5}
+        - {x: 29, y: 19.5}
+        - {x: 29, y: 20.5}
+    - name: Temple tiles final - Scaled_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 127
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 14.5}
+        - {x: -63.5, y: 13.5}
+        - {x: -63.5, y: -20.5}
+        - {x: 63.5, y: -20.5}
+        - {x: 63.5, y: 14.5}
+      - - {x: -31.5, y: 20.5}
+        - {x: -30.5, y: 17.5}
+        - {x: -26.5, y: 17.5}
+        - {x: -24.5, y: 19.5}
+        - {x: -24.5, y: 20.5}
+      - - {x: -22.5, y: 20.5}
+        - {x: -21.5, y: 17.5}
+        - {x: -16.5, y: 17.5}
+        - {x: -14.5, y: 19.5}
+        - {x: -14.5, y: 20.5}
+      - - {x: 27.5, y: 20.5}
+        - {x: 28.5, y: 17.5}
+        - {x: 61.5, y: 17.5}
+        - {x: 63.5, y: 19.5}
+        - {x: 63.5, y: 20.5}
+    - name: Temple tiles final - Scaled_83
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 15
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_84
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 10
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_85
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 11
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_86
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 32
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_87
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 33
+        width: 126
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_88
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 36
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles final - Scaled_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16}
+        - {x: -21.5, y: -16}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 16}
+    - name: Temple tiles final - Scaled_90
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16}
+        - {x: -63, y: -16}
+        - {x: 63, y: -16}
+        - {x: 63, y: 16}
+    - name: Temple tiles final - Scaled_92
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    - name: Temple tiles final - Scaled_93
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 16.5}
+        - {x: -63, y: -16.5}
+        - {x: 63, y: -16.5}
+        - {x: 63, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

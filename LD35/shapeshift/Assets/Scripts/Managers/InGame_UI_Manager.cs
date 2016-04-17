@@ -41,6 +41,7 @@ public class InGame_UI_Manager : MonoBehaviour {
 			BustedScreen.blocksRaycasts = true;
 			BustedScreen.interactable = true;
 			_bustedShown = true;
+			GameManager.Instance.LoadLevel(1);
 		});
 	}
 

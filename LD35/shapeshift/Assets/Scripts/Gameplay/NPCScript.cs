@@ -9,6 +9,7 @@ public class NPCScript : MonoBehaviour {
 	public RectTransform SpeechBubbleRect;
 	public Text SpeechBubbleText;
 	private SpeechEngine _speech;
+	private InGame_UI_Manager _uiManager;
 
 	private bool _needsDismissing = false;
 	private float _dismissTime = 2.0f;
@@ -28,6 +29,7 @@ public class NPCScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		_speech = GameObject.FindGameObjectWithTag("Managers").GetComponent<SpeechEngine>();
+		_uiManager= GameObject.FindGameObjectWithTag("Managers").GetComponent<InGame_UI_Manager>();
 	}
 	
 	// Update is called once per frame
@@ -74,6 +76,14 @@ public class NPCScript : MonoBehaviour {
 			if(_alerted){
 				_currentHaltTime = 0.0f;
 				_alerted = false;
+			}
+		}
+	}
+
+	void AlertCheck(){
+		if(_alerted){
+			if(_currentHaltTime >= _haltTime){
+				_uiManager.ShowBusted();
 			}
 		}
 	}

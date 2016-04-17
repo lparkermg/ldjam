@@ -75,6 +75,6 @@ public class SpeechEngine : MonoBehaviour {
 		speechList.AddRange(generic);
 		speechList.AddRange(specific);
 
-		return speechList[Random.Range(0,speechList.Count)];
+		return speechList[Random.Range(1,(speechList.Count * 10) /10) - 1];
 	}
 }
