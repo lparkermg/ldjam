@@ -3,20 +3,20 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class SpeechEngine : MonoBehaviour {
+	//AI to Player
+	public string[] TriangleToCircle = new string[] {"Sup?", "Oh hey.", "Yo!"};
+	public string[] TriangleToSquare = new string[] {"HALT!", "Stop right there, criminal scum!", "Gotcha now!", "Hold it, you're under arrest"};
+	public string[] TriangleToTriangle = new string[] {"What up bruh?", "You're lookin' buff bruh.","I HATE SQUARES BRO!!!", "Where's that square?", "Yo, Bro!"};
 
-	public string[] TriangleToCircle;
-	public string[] TriangleToSquare;
-	public string[] TriangleToTriangle;
+	public string[] SquareToCircle = new string[] {"Hi there!", "Howdy!"};
+	public string[] SquareToSquare = new string[] {"Hey buddy!", "Be square or be there, amirite?", "Don't square off with me!", "Those triangles are scary!", "Hip to be square..."};
+	public string[] SquareToTriangle = new string[] {"EEK!!", "Please don't hurt me!!", "I'm sorry!",  "Sorry!"};
 
-	public string[] SquareToCircle;
-	public string[] SquareToSquare;
-	public string[] SquareToTriangle;
+	public string[] CircleToCircle = new string[] {"You look cool.", "Wow, you're in great shape...", "I'll see you... a round..."};
+	public string[] CircleToSquare = new string[] {"You'll see me, a round... right?","I'm not a platform, I'm a circle!\nJerk...", "Whatever...", "You're pretty cool... for a square.", "You look like a square."};
+	public string[] CircleToTriangle = new string[] {"Hey big guy..."};
 
-	public string[] CircleToCircle;
-	public string[] CircleToSquare;
-	public string[] CircleToTriangle;
-
-	public string[] GenericSpeech;
+	public string[] GenericSpeech = new string[] {"Hey.", "Nice, day it is today."};
 
 	// Use this for initialization
 	void Start () {

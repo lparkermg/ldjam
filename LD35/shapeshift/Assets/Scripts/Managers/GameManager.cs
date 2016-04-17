@@ -14,11 +14,12 @@ public class GameManager : Singleton<GameManager> {
 	public float SfxVolume {get; private set;}
 	private float _sfxVolume; //May not need this...
 
-	public Vector3 LastCheckpoint {get; private set;}
 	public int Lives {get; private set;}
 	public int Score {get; private set;}
 	public int Collectables {get; private set;}
 	public int HiddenCollectables {get; private set;}
+
+	public bool IsBusted {get; private set;}
 
 	#region World Setup
 	public void SetupWorld(){
@@ -29,10 +30,6 @@ public class GameManager : Singleton<GameManager> {
 	#endregion
 
 	#region Update In Game
-	public void UpdateCheckpoint(Vector3 newCheckpoint){
-		LastCheckpoint = newCheckpoint;
-	}
-
 	public void UpdateLives(int amount, bool isTaking){
 		if(!isTaking){
 			Lives += amount;
@@ -69,6 +66,9 @@ public class GameManager : Singleton<GameManager> {
 		}
 	}
 
+	public void UpdateIsBusted(bool isBusted){
+		IsBusted = isBusted;
+	}
 	#endregion
 
 	#region Update Audio

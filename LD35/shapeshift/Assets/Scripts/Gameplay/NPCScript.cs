@@ -25,7 +25,6 @@ public class NPCScript : MonoBehaviour {
 	private bool _alerted = false;
 
 
-
 	// Use this for initialization
 	void Start () {
 		_speech = GameObject.FindGameObjectWithTag("InGameEngines").GetComponent<SpeechEngine>();
@@ -58,7 +57,7 @@ public class NPCScript : MonoBehaviour {
 			var ps = GetPlayerScript(objCol);
 			if(_alerted){
 				if(_currentHaltTime > _haltTime){
-					//TODO: Busted.
+					GameObject.FindGameObjectWithTag("Managers").GetComponent<InGame_UI_Manager>().ShowBusted();
 				}
 				else{
 					_currentHaltTime += Time.deltaTime;

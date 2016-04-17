@@ -40,7 +40,7 @@ public class PlayerScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		InputCheck();
+		InputCheck(GameManager.Instance.IsBusted);
 		DismissCheck();
 	}
 
@@ -50,23 +50,24 @@ public class PlayerScript : MonoBehaviour {
 		}
 	}
 
-	void InputCheck(){
-		Move(Input.GetAxis("Horizontal"));
-		if(Input.GetAxis("Vertical") > 0.0f){
-			Jump();
-		}
+	void InputCheck(bool isBusted){
+		if(!isBusted){
+			Move(Input.GetAxis("Horizontal"));
+			if(Input.GetAxis("Vertical") > 0.0f){
+				Jump();
+			}
 
-		//TODO: Consider changing to mappable thing...
-		if(Input.GetKeyUp(KeyCode.Alpha1)){
-			ShapeShift("Square");
+			//TODO: Consider changing to mappable thing...
+			if(Input.GetKeyUp(KeyCode.Alpha1)){
+				ShapeShift("Square");
+			}
+			else if(Input.GetKeyUp(KeyCode.Alpha2)){
+				ShapeShift("Circle");
+			}
+			else if(Input.GetKeyUp(KeyCode.Alpha3)){
+				ShapeShift("Triangle");
+			}
 		}
-		else if(Input.GetKeyUp(KeyCode.Alpha2)){
-			ShapeShift("Circle");
-		}
-		else if(Input.GetKeyUp(KeyCode.Alpha3)){
-			ShapeShift("Triangle");
-		}
-
 	}
 
 	void DismissCheck(){
