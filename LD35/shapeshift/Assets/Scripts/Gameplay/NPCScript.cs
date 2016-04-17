@@ -27,7 +27,7 @@ public class NPCScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		_speech = GameObject.FindGameObjectWithTag("InGameEngines").GetComponent<SpeechEngine>();
+		_speech = GameObject.FindGameObjectWithTag("Managers").GetComponent<SpeechEngine>();
 	}
 	
 	// Update is called once per frame

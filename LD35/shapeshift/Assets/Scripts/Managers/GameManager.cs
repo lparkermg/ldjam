@@ -14,7 +14,7 @@ public class GameManager : Singleton<GameManager> {
 	public float SfxVolume {get; private set;}
 	private float _sfxVolume; //May not need this...
 
-	public int Lives {get; private set;}
+	public TimeSpan TimeTaken {get; private set;}
 	public int Score {get; private set;}
 	public int Collectables {get; private set;}
 	public int HiddenCollectables {get; private set;}
@@ -30,15 +30,6 @@ public class GameManager : Singleton<GameManager> {
 	#endregion
 
 	#region Update In Game
-	public void UpdateLives(int amount, bool isTaking){
-		if(!isTaking){
-			Lives += amount;
-		}
-		else{
-			Lives -= amount;
-		}
-	}
-
 	public void UpdateScore(int amount, bool isTaking){
 		if(!isTaking){
 			Score += amount;
@@ -68,6 +59,10 @@ public class GameManager : Singleton<GameManager> {
 
 	public void UpdateIsBusted(bool isBusted){
 		IsBusted = isBusted;
+	}
+
+	public void AddSeconds(int amount){
+		TimeTaken = TimeTaken.Add(new TimeSpan(0,0,amount));
 	}
 	#endregion
 

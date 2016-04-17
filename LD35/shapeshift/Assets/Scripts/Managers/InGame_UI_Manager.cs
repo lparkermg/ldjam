@@ -7,6 +7,10 @@ public class InGame_UI_Manager : MonoBehaviour {
 	public CanvasGroup BustedScreen;
 	public CanvasGroup HUD;
 
+	public Text CollectableText;
+	public Text TimeText;
+	public Text ScoreText;
+
 	private bool _bustedShown = false;
 	private float _waitTime =2.5f;
 	private float _currentTime = 0.0f;
@@ -18,6 +22,7 @@ public class InGame_UI_Manager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		UpdateUI();
 		if(_bustedShown){
 			if(_currentTime >= _waitTime){
 				StartAgain();
@@ -50,5 +55,11 @@ public class InGame_UI_Manager : MonoBehaviour {
 
 	private void StartAgain(){
 		GameManager.Instance.LoadLevel(1);
+	}
+
+	private void UpdateUI(){
+		TimeText.text = GameManager.Instance.TimeTaken.ToString();
+		CollectableText.text = "x " + GameManager.Instance.Collectables.ToString("000");
+		ScoreText.text = GameManager.Instance.Score.ToString("0000000");
 	}
 }
