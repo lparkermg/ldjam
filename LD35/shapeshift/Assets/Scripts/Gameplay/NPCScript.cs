@@ -14,8 +14,8 @@ public class NPCScript : MonoBehaviour {
 	private float _dismissTime = 2.0f;
 	private float _currentDismissTime = 0.0f;
 
-	private float _bubbleHeight = 32.0f;
-	private float _bubbleWidth = 96.0f;
+	private float _bubbleHeight = 0.5f;
+	private float _bubbleWidth = 1.0f;
 
 	public string AiShape = "Square";
 
@@ -32,19 +32,21 @@ public class NPCScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		if(_needsDismissing){
+			CheckDismiss();
+		}
 	}
 
 	void OnCollisionEnter2D(Collision2D objCol){
 		if(objCol.gameObject.tag == "Player"){
-			var ps = GetPlayerScript(objCol);
+			var ps = objCol.gameObject.GetComponent<PlayerScript>();
 			ShowSpeechBubble(_speech.GetSpeech(ps.CurrentShape,AiShape),3.0f,_bubbleHeight,_bubbleWidth);
 		}
 	}
 
 	void OnTriggerEnter2D(Collider2D objCol){
 		if(objCol.gameObject.tag == "Player"){
-			var ps = GetPlayerScript(objCol);
+			var ps = objCol.gameObject.GetComponent<PlayerScript>();
 			ShowSpeechBubble(_speech.GetSpeech(ps.CurrentShape,AiShape),3.0f,_bubbleHeight,_bubbleWidth);
 			if(ps.CurrentShape == "Square" && AiShape == "Triangle"){
 				_alerted = true;
@@ -54,7 +56,7 @@ public class NPCScript : MonoBehaviour {
 
 	void OnTriggerStay2D(Collider2D objCol){
 		if(objCol.gameObject.tag == "Player"){
-			var ps = GetPlayerScript(objCol);
+			var ps = objCol.gameObject.GetComponent<PlayerScript>();
 			if(_alerted){
 				if(_currentHaltTime > _haltTime){
 					GameObject.FindGameObjectWithTag("Managers").GetComponent<InGame_UI_Manager>().ShowBusted();
@@ -68,7 +70,7 @@ public class NPCScript : MonoBehaviour {
 
 	void OnTriggerExit2D(Collider2D objCol){
 		if(objCol.gameObject.tag == "Player"){
-			var ps = GetPlayerScript(objCol);
+			var ps = objCol.gameObject.GetComponent<PlayerScript>();
 			if(_alerted){
 				_currentHaltTime = 0.0f;
 				_alerted = false;
@@ -93,16 +95,19 @@ public class NPCScript : MonoBehaviour {
 		});
 	}
 
-	#endregion
-
-	private PlayerScript GetPlayerScript(Collider2D objCol){
-		var ps = objCol.gameObject.GetComponent<PlayerScript>();
-		return ps;
+	private void CheckDismiss(){
+		if(_currentDismissTime >= _dismissTime){
+			DismissSpeechBubble();
+		}
+		else {
+			_currentDismissTime += Time.deltaTime;
+		}
 	}
 
-	private PlayerScript GetPlayerScript(Collision2D objCol){
-		var ps = objCol.gameObject.GetComponent<PlayerScript>();
+	#endregion
 
+	private PlayerScript GetPlayerScript(GameObject objCol){
+		var ps = objCol.GetComponent<PlayerScript>();
 		return ps;
 	}
 		

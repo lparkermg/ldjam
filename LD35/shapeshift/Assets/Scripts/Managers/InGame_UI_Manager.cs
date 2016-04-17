@@ -6,6 +6,7 @@ public class InGame_UI_Manager : MonoBehaviour {
 
 	public CanvasGroup BustedScreen;
 	public CanvasGroup HUD;
+	public CanvasGroup Blackout;
 
 	public Text CollectableText;
 	public Text TimeText;
@@ -40,6 +41,19 @@ public class InGame_UI_Manager : MonoBehaviour {
 			BustedScreen.blocksRaycasts = true;
 			BustedScreen.interactable = true;
 			_bustedShown = true;
+		});
+	}
+
+	public void BlackoutWindow(){
+		LeanTween.alphaCanvas(Blackout, 1.0f, 0.5f).setOnComplete(() => {
+			GameManager.Instance.UpdateLevel(GameManager.Instance.CurrentLevel + 1);
+			GameObject.FindGameObjectWithTag("Managers").GetComponent<LevelManager>().MovePlayerToSpawn();
+		});
+	}
+
+	public void FadeBlackout(){
+		LeanTween.alphaCanvas(Blackout,0.0f,0.5f).setOnComplete(() => {
+			
 		});
 	}
 

@@ -21,6 +21,8 @@ public class GameManager : Singleton<GameManager> {
 
 	public bool IsBusted {get; private set;}
 
+	public int CurrentLevel {get; private set;}
+
 	#region World Setup
 	public void SetupWorld(){
 
@@ -63,6 +65,10 @@ public class GameManager : Singleton<GameManager> {
 
 	public void AddSeconds(int amount){
 		TimeTaken = TimeTaken.Add(new TimeSpan(0,0,amount));
+	}
+
+	public void UpdateLevel(int newLevel){
+		CurrentLevel = newLevel;
 	}
 	#endregion
 

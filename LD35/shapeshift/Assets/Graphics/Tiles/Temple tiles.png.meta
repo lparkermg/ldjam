@@ -1,0 +1,2419 @@
+fileFormatVersion: 2
+guid: 0d240891eaece41efb9789c982ca9dd2
+timeCreated: 1460894722
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Temple tiles_0
+    21300002: Temple tiles_1
+    21300004: Temple tiles_2
+    21300006: Temple tiles_3
+    21300008: Temple tiles_4
+    21300010: Temple tiles_5
+    21300012: Temple tiles_6
+    21300014: Temple tiles_7
+    21300016: Temple tiles_8
+    21300018: Temple tiles_9
+    21300020: Temple tiles_10
+    21300022: Temple tiles_11
+    21300024: Temple tiles_12
+    21300026: Temple tiles_13
+    21300028: Temple tiles_14
+    21300030: Temple tiles_15
+    21300032: Temple tiles_16
+    21300034: Temple tiles_17
+    21300036: Temple tiles_18
+    21300038: Temple tiles_19
+    21300040: Temple tiles_20
+    21300042: Temple tiles_21
+    21300044: Temple tiles_22
+    21300046: Temple tiles_23
+    21300048: Temple tiles_24
+    21300050: Temple tiles_25
+    21300052: Temple tiles_26
+    21300054: Temple tiles_27
+    21300056: Temple tiles_28
+    21300058: Temple tiles_29
+    21300060: Temple tiles_30
+    21300062: Temple tiles_31
+    21300064: Temple tiles_32
+    21300066: Temple tiles_33
+    21300068: Temple tiles_34
+    21300070: Temple tiles_35
+    21300072: Temple tiles_36
+    21300074: Temple tiles_37
+    21300076: Temple tiles_38
+    21300078: Temple tiles_39
+    21300080: Temple tiles_40
+    21300082: Temple tiles_41
+    21300084: Temple tiles_42
+    21300086: Temple tiles_43
+    21300088: Temple tiles_44
+    21300090: Temple tiles_45
+    21300092: Temple tiles_46
+    21300094: Temple tiles_47
+    21300096: Temple tiles_48
+    21300098: Temple tiles_49
+    21300100: Temple tiles_50
+    21300102: Temple tiles_51
+    21300104: Temple tiles_52
+    21300106: Temple tiles_53
+    21300108: Temple tiles_54
+    21300110: Temple tiles_55
+    21300112: Temple tiles_56
+    21300114: Temple tiles_57
+    21300116: Temple tiles_58
+    21300118: Temple tiles_59
+    21300120: Temple tiles_60
+    21300122: Temple tiles_61
+    21300124: Temple tiles_62
+    21300126: Temple tiles_63
+    21300128: Temple tiles_64
+    21300130: Temple tiles_65
+    21300132: Temple tiles_66
+    21300134: Temple tiles_67
+    21300136: Temple tiles_68
+    21300138: Temple tiles_69
+    21300140: Temple tiles_70
+    21300142: Temple tiles_71
+    21300144: Temple tiles_72
+    21300146: Temple tiles_73
+    21300148: Temple tiles_74
+    21300150: Temple tiles_75
+    21300152: Temple tiles_76
+    21300154: Temple tiles_77
+    21300156: Temple tiles_78
+    21300158: Temple tiles_79
+    21300160: Temple tiles_80
+    21300162: Temple tiles_81
+    21300164: Temple tiles_82
+    21300166: Temple tiles_83
+    21300168: Temple tiles_84
+    21300170: Temple tiles_85
+    21300172: Temple tiles_86
+    21300174: Temple tiles_87
+    21300176: Temple tiles_88
+    21300178: Temple tiles_89
+    21300180: Temple tiles_90
+    21300182: Temple tiles_91
+    21300184: Temple tiles_92
+    21300186: Temple tiles_93
+    21300188: Temple tiles_94
+    21300190: Temple tiles_95
+    21300192: Temple tiles_96
+    21300194: Temple tiles_97
+    21300196: Temple tiles_98
+    21300198: Temple tiles_99
+    21300200: Temple tiles_100
+    21300202: Temple tiles_101
+    21300204: Temple tiles_102
+    21300206: Temple tiles_103
+    21300208: Temple tiles_104
+    21300210: Temple tiles_105
+    21300212: Temple tiles_106
+    21300214: Temple tiles_107
+    21300216: Temple tiles_108
+    21300218: Temple tiles_109
+    21300220: Temple tiles_110
+    21300222: Temple tiles_111
+    21300224: Temple tiles_112
+    21300226: Temple tiles_113
+    21300228: Temple tiles_114
+    21300230: Temple tiles_115
+    21300232: Temple tiles_116
+    21300234: Temple tiles_117
+    21300236: Temple tiles_118
+    21300238: Temple tiles_119
+    21300240: Temple tiles_120
+    21300242: Temple tiles_121
+    21300244: Temple tiles_122
+    21300246: Temple tiles_123
+    21300248: Temple tiles_124
+    21300250: Temple tiles_125
+    21300252: Temple tiles_126
+    21300254: Temple tiles_127
+    21300256: Temple tiles_128
+    21300258: Temple tiles_129
+    21300260: Temple tiles_130
+    21300262: Temple tiles_131
+    21300264: Temple tiles_132
+    21300266: Temple tiles_133
+    21300268: Temple tiles_134
+    21300270: Temple tiles_135
+    21300272: Temple tiles_136
+    21300274: Temple tiles_137
+    21300276: Temple tiles_138
+    21300278: Temple tiles_139
+    21300280: Temple tiles_140
+    21300282: Temple tiles_141
+    21300284: Temple tiles_142
+    21300286: Temple tiles_143
+    21300288: Temple tiles_144
+    21300290: Temple tiles_145
+    21300292: Temple tiles_146
+    21300294: Temple tiles_147
+    21300296: Temple tiles_148
+    21300298: Temple tiles_149
+    21300300: Temple tiles_150
+    21300302: Temple tiles_151
+    21300304: Temple tiles_152
+    21300306: Temple tiles_153
+    21300308: Temple tiles_154
+    21300310: Temple tiles_155
+    21300312: Temple tiles_156
+    21300314: Temple tiles_157
+    21300316: Temple tiles_158
+    21300318: Temple tiles_159
+    21300320: Temple tiles_160
+    21300322: Temple tiles_161
+    21300324: Temple tiles_162
+    21300326: Temple tiles_163
+    21300328: Temple tiles_164
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Temple tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3758
+        width: 56
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3878
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3863
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3841
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3878
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3856
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3878
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3863
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3841
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_9
+      rect:
+        serializedVersion: 2
+        x: 11915
+        y: 3383
+        width: 413
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.886963, y: 43.06137}
+        - {x: 8.886963, y: 37.06137}
+        - {x: -3.113037, y: 43.06137}
+        - {x: -25.113037, y: 43.06137}
+        - {x: -27.113037, y: 42.06137}
+        - {x: -27.113037, y: -33.93863}
+        - {x: -25.113037, y: -41.93863}
+        - {x: 24.886963, y: -41.93863}
+        - {x: 28.886963, y: -29.93863}
+        - {x: 28.886963, y: 43.06137}
+    - name: Temple tiles_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3856
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3803
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3796
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3819
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3819
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3818
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3822
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3473
+        width: 361
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.041698, y: -22.952057}
+        - {x: -21.041698, y: -22.952057}
+        - {x: -21.041698, y: -19.952057}
+        - {x: -23.041698, y: -17.952057}
+        - {x: -24.041698, y: -17.952057}
+      - - {x: -14.041698, y: 24.047943}
+        - {x: -24.041698, y: 12.047943}
+        - {x: -24.041698, y: -18.952057}
+        - {x: -22.041698, y: -22.952057}
+        - {x: 24.958302, y: -22.952057}
+        - {x: 24.958302, y: 24.047943}
+      - - {x: -24.041698, y: 7.047943}
+        - {x: -22.041698, y: 5.047943}
+        - {x: -19.041698, y: 6.047943}
+        - {x: -19.041698, y: 9.047943}
+        - {x: -21.041698, y: 11.047943}
+        - {x: -24.041698, y: 10.047943}
+      - - {x: -24.041698, y: 11.047943}
+        - {x: -21.041698, y: 12.047943}
+        - {x: -21.041698, y: 15.047943}
+        - {x: -23.041698, y: 17.047943}
+        - {x: -24.041698, y: 17.047943}
+      - - {x: -21.041698, y: 21.047943}
+        - {x: -20.041698, y: 18.047943}
+        - {x: -16.041698, y: 18.047943}
+        - {x: -14.041698, y: 20.047943}
+        - {x: -15.041698, y: 23.047943}
+        - {x: -19.041698, y: 23.047943}
+      - - {x: -23.041698, y: 21.047943}
+        - {x: -20.041698, y: 22.047943}
+        - {x: -20.041698, y: 24.047943}
+        - {x: -24.041698, y: 24.047943}
+        - {x: -24.041698, y: 23.047943}
+    - name: Temple tiles_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3765
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3780
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3735
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3735
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3750
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3750
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3683
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3630
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_26
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 3383
+        width: 308
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.641022, y: 22.06137}
+        - {x: -20.641022, y: 10.061371}
+        - {x: -11.641022, y: -20.93863}
+        - {x: 10.358978, y: -20.93863}
+        - {x: 21.358978, y: 18.06137}
+        - {x: 21.358978, y: 22.06137}
+    - name: Temple tiles_27
+      rect:
+        serializedVersion: 2
+        x: 10954
+        y: 3450
+        width: 616
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.602783, y: 19.98471}
+        - {x: -40.602783, y: 6.9847107}
+        - {x: -40.602783, y: -16.01529}
+        - {x: -39.602783, y: -19.01529}
+        - {x: 34.397217, y: -19.01529}
+        - {x: 42.397217, y: -6.0152893}
+        - {x: 42.397217, y: 19.98471}
+    - name: Temple tiles_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3638
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_29
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3383
+        width: 240
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3585
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3608
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3593
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3578
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3473
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3533
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3555
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3555
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_38
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3383
+        width: 211
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3510
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3525
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3503
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3495
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3473
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3465
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_45
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3465
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3480
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3480
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3458
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3465
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3458
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_51
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3405
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3428
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3390
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3428
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3390
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_56
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3443
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3420
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3390
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_59
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3420
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3375
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3368
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3368
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3375
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3390
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3368
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3368
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3368
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_68
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3368
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2857
+        width: 1074
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.53722, y: 19.506592}
+        - {x: -71.53722, y: -18.493408}
+        - {x: 72.46278, y: -18.493408}
+        - {x: 72.46278, y: 19.506592}
+    - name: Temple tiles_70
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 2940
+        width: 427
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.332336, y: 19.060883}
+        - {x: -15.667664, y: 7.0608826}
+        - {x: -28.667664, y: -12.939117}
+        - {x: -28.667664, y: -17.939117}
+        - {x: 29.332336, y: -17.939117}
+        - {x: 29.332336, y: 19.060883}
+    - name: Temple tiles_71
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 2940
+        width: 428
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.7505493, y: 19.060883}
+        - {x: -28.75055, y: 19.060883}
+        - {x: -28.75055, y: -17.939117}
+        - {x: 29.24945, y: -17.939117}
+        - {x: 29.24945, y: -9.939117}
+        - {x: 3.2494507, y: 17.060883}
+    - name: Temple tiles_72
+      rect:
+        serializedVersion: 2
+        x: 9716
+        y: 2887
+        width: 548
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_73
+      rect:
+        serializedVersion: 2
+        x: 10279
+        y: 2887
+        width: 1073
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_74
+      rect:
+        serializedVersion: 2
+        x: 11367
+        y: 2887
+        width: 555
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_75
+      rect:
+        serializedVersion: 2
+        x: 13596
+        y: 2887
+        width: 555
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_76
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 2887
+        width: 556
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_77
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2662
+        width: 1081
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.142761, y: 19.035736}
+        - {x: -37.14276, y: 14.035736}
+        - {x: -72.14276, y: -1.9642639}
+        - {x: -72.14276, y: -17.964264}
+        - {x: 72.85724, y: -17.964264}
+        - {x: 72.85724, y: 19.035736}
+    - name: Temple tiles_78
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 2639
+        width: 608
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.773926, y: 0.47250366}
+        - {x: -40.773926, y: -18.527496}
+        - {x: 41.226074, y: -18.527496}
+        - {x: 41.226074, y: 19.472504}
+        - {x: -26.773926, y: 19.472504}
+        - {x: -36.773926, y: 17.472504}
+    - name: Temple tiles_79
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 2639
+        width: 615
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.74945, y: 19.472504}
+        - {x: -41.25055, y: 19.472504}
+        - {x: -41.25055, y: -18.527496}
+        - {x: 41.74945, y: -18.527496}
+        - {x: 41.74945, y: -10.527496}
+        - {x: 30.74945, y: 18.472504}
+    - name: Temple tiles_80
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 2782
+        width: 278
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_81
+      rect:
+        serializedVersion: 2
+        x: 8605
+        y: 2744
+        width: 240
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_82
+      rect:
+        serializedVersion: 2
+        x: 9716
+        y: 2804
+        width: 548
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_83
+      rect:
+        serializedVersion: 2
+        x: 10279
+        y: 2812
+        width: 1080
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_84
+      rect:
+        serializedVersion: 2
+        x: 11367
+        y: 2804
+        width: 548
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_85
+      rect:
+        serializedVersion: 2
+        x: 13603
+        y: 2564
+        width: 548
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.298462, y: 19.483704}
+        - {x: -36.298462, y: -18.516296}
+        - {x: 9.701538, y: -18.516296}
+        - {x: 37.701538, y: -8.516296}
+        - {x: 37.701538, y: 19.483704}
+    - name: Temple tiles_86
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 2564
+        width: 548
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.33606, y: 19.483704}
+        - {x: -36.33606, y: 18.483704}
+        - {x: -36.33606, y: 10.483704}
+        - {x: -34.33606, y: 8.483704}
+        - {x: 25.66394, y: -18.516296}
+        - {x: 37.66394, y: -18.516296}
+        - {x: 37.66394, y: 19.483704}
+    - name: Temple tiles_87
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2497
+        width: 1074
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.53722, y: 19.060364}
+        - {x: -71.53722, y: -17.939636}
+        - {x: 72.46278, y: -17.939636}
+        - {x: 72.46278, y: 19.060364}
+    - name: Temple tiles_88
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2361
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.142761, y: 19.447357}
+        - {x: -72.14276, y: -2.5526428}
+        - {x: -72.14276, y: -18.552643}
+        - {x: 72.85724, y: -18.552643}
+        - {x: 72.85724, y: 19.447357}
+    - name: Temple tiles_89
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 2354
+        width: 983
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.717957, y: 19.015076}
+        - {x: -20.717957, y: 17.015076}
+        - {x: -64.71796, y: -13.984924}
+        - {x: -65.71796, y: -14.984924}
+        - {x: -65.71796, y: -17.984924}
+        - {x: 66.28204, y: -17.984924}
+        - {x: 66.28204, y: 19.015076}
+    - name: Temple tiles_90
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 2354
+        width: 990
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.25055, y: 19.015076}
+        - {x: -66.25055, y: -17.984924}
+        - {x: 66.74945, y: -17.984924}
+        - {x: 66.74945, y: -14.984924}
+        - {x: 26.74945, y: 19.015076}
+    - name: Temple tiles_91
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 2489
+        width: 1073
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.82794, y: 19.494904}
+        - {x: -71.82794, y: -18.505096}
+        - {x: 72.17206, y: -18.505096}
+        - {x: 72.17206, y: 19.494904}
+    - name: Temple tiles_92
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 2452
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.39868, y: 19.567108}
+        - {x: -72.39868, y: -18.432892}
+        - {x: 72.60132, y: -18.432892}
+        - {x: 72.60132, y: 19.567108}
+    - name: Temple tiles_93
+      rect:
+        serializedVersion: 2
+        x: 13581
+        y: 2264
+        width: 113
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_94
+      rect:
+        serializedVersion: 2
+        x: 14759
+        y: 2264
+        width: 120
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_95
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2361
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2076
+        width: 406
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.037216, y: 19.48993}
+        - {x: -27.037216, y: -18.51007}
+        - {x: 27.962784, y: -18.51007}
+        - {x: 27.962784, y: 19.48993}
+    - name: Temple tiles_97
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2076
+        width: 398
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.504852, y: 18.98993}
+        - {x: -26.504852, y: 17.98993}
+        - {x: -26.504852, y: -18.01007}
+        - {x: 27.495148, y: -18.01007}
+        - {x: 27.495148, y: 18.98993}
+    - name: Temple tiles_98
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2069
+        width: 586
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.11638, y: -10.942352}
+        - {x: -39.11638, y: -17.942352}
+        - {x: 39.88362, y: -17.942352}
+        - {x: 39.88362, y: 19.057648}
+        - {x: 5.883621, y: 19.057648}
+        - {x: -23.116379, y: 12.057648}
+    - name: Temple tiles_99
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2069
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.14276, y: 19.557648}
+        - {x: -72.14276, y: -18.442352}
+        - {x: 72.85724, y: -18.442352}
+        - {x: 72.85724, y: 19.557648}
+    - name: Temple tiles_100
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 2054
+        width: 1073
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.7045, y: 19.559875}
+        - {x: -71.7045, y: -18.440125}
+        - {x: 72.2955, y: -18.440125}
+        - {x: 72.2955, y: 19.559875}
+    - name: Temple tiles_101
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 2054
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.25055, y: 19.559875}
+        - {x: -72.25055, y: -18.440125}
+        - {x: 72.74945, y: -18.440125}
+        - {x: 72.74945, y: 19.559875}
+    - name: Temple tiles_102
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 2099
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_103
+      rect:
+        serializedVersion: 2
+        x: 8335
+        y: 2061
+        width: 240
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_104
+      rect:
+        serializedVersion: 2
+        x: 9416
+        y: 2024
+        width: 367
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_105
+      rect:
+        serializedVersion: 2
+        x: 11277
+        y: 2039
+        width: 375
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_106
+      rect:
+        serializedVersion: 2
+        x: 12147
+        y: 2046
+        width: 368
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_107
+      rect:
+        serializedVersion: 2
+        x: 13078
+        y: 1933
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.71997, y: 19.44461}
+        - {x: -71.71997, y: -17.55539}
+        - {x: -70.71997, y: -18.55539}
+        - {x: 73.28003, y: -18.55539}
+        - {x: 73.28003, y: 19.44461}
+    - name: Temple tiles_108
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 1941
+        width: 1070
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.33606, y: 19.510101}
+        - {x: -71.33606, y: -18.489899}
+        - {x: 72.66394, y: -18.489899}
+        - {x: 72.66394, y: 19.510101}
+    - name: Temple tiles_109
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1753
+        width: 1074
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.61015, y: 19.471497}
+        - {x: -71.61015, y: -18.528503}
+        - {x: 72.38985, y: -18.528503}
+        - {x: 72.38985, y: 19.471497}
+    - name: Temple tiles_110
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 1813
+        width: 1073
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.82794, y: 19.46254}
+        - {x: -71.82794, y: -18.53746}
+        - {x: 72.17206, y: -18.53746}
+        - {x: 72.17206, y: 19.46254}
+    - name: Temple tiles_111
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 1776
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.39868, y: 19.534729}
+        - {x: -72.39868, y: -18.465271}
+        - {x: 72.60132, y: -18.465271}
+        - {x: 72.60132, y: 19.534729}
+    - name: Temple tiles_112
+      rect:
+        serializedVersion: 2
+        x: 9416
+        y: 1941
+        width: 367
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_113
+      rect:
+        serializedVersion: 2
+        x: 11277
+        y: 1963
+        width: 375
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_114
+      rect:
+        serializedVersion: 2
+        x: 12140
+        y: 1963
+        width: 375
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1648
+        width: 458
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.537216, y: 19.487183}
+        - {x: -30.537216, y: -18.512817}
+        - {x: 31.462784, y: -18.512817}
+        - {x: 31.462784, y: 19.487183}
+    - name: Temple tiles_116
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1648
+        width: 436
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.065842, y: 19.487183}
+        - {x: -29.065842, y: -18.512817}
+        - {x: 29.934158, y: -18.512817}
+        - {x: 29.934158, y: 19.487183}
+    - name: Temple tiles_117
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 1678
+        width: 503
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.789612, y: 6.4826965}
+        - {x: -33.78961, y: -12.517303}
+        - {x: -33.78961, y: -18.517303}
+        - {x: 34.21039, y: -18.517303}
+        - {x: 34.21039, y: 19.482697}
+        - {x: 13.210388, y: 19.482697}
+        - {x: 8.210388, y: 18.482697}
+    - name: Temple tiles_118
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 1678
+        width: 495
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.250549, y: 18.982697}
+        - {x: -33.25055, y: 18.982697}
+        - {x: -33.25055, y: -18.017303}
+        - {x: 33.74945, y: -18.017303}
+        - {x: 33.74945, y: -10.017303}
+        - {x: 22.74945, y: 11.982697}
+    - name: Temple tiles_119
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1295
+        width: 1074
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.53722, y: 19.473236}
+        - {x: -71.53722, y: 18.473236}
+        - {x: -71.53722, y: -18.526764}
+        - {x: 72.46278, y: -18.526764}
+        - {x: 72.46278, y: 19.473236}
+    - name: Temple tiles_120
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1295
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.04468, y: 19.473236}
+        - {x: -72.04468, y: -18.526764}
+        - {x: 72.95532, y: -18.526764}
+        - {x: 72.95532, y: -4.526764}
+        - {x: 25.955322, y: 19.473236}
+    - name: Temple tiles_121
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 1385
+        width: 990
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1502075, y: 19.459793}
+        - {x: -65.15021, y: -14.540207}
+        - {x: -66.15021, y: -15.540207}
+        - {x: -66.15021, y: -18.540207}
+        - {x: 66.84979, y: -18.540207}
+        - {x: 66.84979, y: 19.459793}
+    - name: Temple tiles_122
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 1385
+        width: 960
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.749451, y: 18.959793}
+        - {x: -64.25055, y: 18.959793}
+        - {x: -64.25055, y: -18.040207}
+        - {x: 64.74945, y: -18.040207}
+        - {x: 64.74945, y: -14.040207}
+    - name: Temple tiles_123
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 1415
+        width: 270
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_124
+      rect:
+        serializedVersion: 2
+        x: 8065
+        y: 1378
+        width: 262
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_125
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1085
+        width: 1074
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.76996, y: 19.504608}
+        - {x: -71.76996, y: -18.495392}
+        - {x: 72.23004, y: -18.495392}
+        - {x: 72.23004, y: 19.504608}
+    - name: Temple tiles_126
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 1078
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.25055, y: 19.572327}
+        - {x: -72.25055, y: -18.427673}
+        - {x: 72.74945, y: -18.427673}
+        - {x: 72.74945, y: 19.572327}
+    - name: Temple tiles_127
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 1130
+        width: 1073
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.82794, y: 19.497894}
+        - {x: -71.82794, y: -18.502106}
+        - {x: 72.17206, y: -18.502106}
+        - {x: 72.17206, y: 19.497894}
+    - name: Temple tiles_128
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 1085
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.39868, y: 19.504608}
+        - {x: -72.39868, y: -18.495392}
+        - {x: 72.60132, y: -18.495392}
+        - {x: 72.60132, y: 19.504608}
+    - name: Temple tiles_129
+      rect:
+        serializedVersion: 2
+        x: 9393
+        y: 1130
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.50293, y: 19.497894}
+        - {x: -71.50293, y: 18.497894}
+        - {x: -71.50293, y: -17.502106}
+        - {x: -70.50293, y: -18.502106}
+        - {x: 73.49707, y: -18.502106}
+        - {x: 73.49707, y: 19.497894}
+    - name: Temple tiles_130
+      rect:
+        serializedVersion: 2
+        x: 13543
+        y: 1273
+        width: 556
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_131
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 1288
+        width: 556
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_132
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 815
+        width: 361
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.037216, y: 19.544937}
+        - {x: -24.037216, y: -18.455063}
+        - {x: 24.962784, y: -18.455063}
+        - {x: 24.962784, y: 19.544937}
+    - name: Temple tiles_133
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1002
+        width: 1081
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.955322, y: 18.950333}
+        - {x: -72.04468, y: 18.950333}
+        - {x: -72.04468, y: -18.049667}
+        - {x: 72.95532, y: -18.049667}
+        - {x: 72.95532, y: -2.0496674}
+    - name: Temple tiles_134
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 995
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_135
+      rect:
+        serializedVersion: 2
+        x: 13543
+        y: 972
+        width: 556
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.78943, y: 18.954819}
+        - {x: -36.78943, y: 17.954819}
+        - {x: -36.78943, y: -18.045181}
+        - {x: 38.21057, y: -18.045181}
+        - {x: 38.21057, y: 18.954819}
+    - name: Temple tiles_136
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 980
+        width: 548
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.33606, y: 19.520294}
+        - {x: -36.33606, y: 18.520294}
+        - {x: -36.33606, y: -17.479706}
+        - {x: -35.33606, y: -18.479706}
+        - {x: 37.66394, y: -18.479706}
+        - {x: 37.66394, y: 19.520294}
+    - name: Temple tiles_137
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 710
+        width: 1081
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.04468, y: 19.060623}
+        - {x: -72.04468, y: -17.939377}
+        - {x: 72.95532, y: -17.939377}
+        - {x: 72.95532, y: 19.060623}
+    - name: Temple tiles_138
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 702
+        width: 593
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.644989, y: 19.495148}
+        - {x: -39.64499, y: 19.495148}
+        - {x: -39.64499, y: -18.504852}
+        - {x: 40.35501, y: -18.504852}
+        - {x: 40.35501, y: -14.504852}
+        - {x: 37.35501, y: -6.5048523}
+    - name: Temple tiles_139
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 559
+        width: 915
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.904053, y: 18.949837}
+        - {x: -61.095947, y: -12.050163}
+        - {x: -61.095947, y: -18.050163}
+        - {x: 61.904053, y: -18.050163}
+        - {x: 61.904053, y: 18.949837}
+    - name: Temple tiles_140
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 559
+        width: 908
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.752808, y: 18.949837}
+        - {x: -60.752808, y: 18.949837}
+        - {x: -60.752808, y: -18.050163}
+        - {x: 61.247192, y: -18.050163}
+        - {x: 61.247192, y: -14.050163}
+    - name: Temple tiles_141
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 635
+        width: 270
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_142
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 597
+        width: 270
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_143
+      rect:
+        serializedVersion: 2
+        x: 9363
+        y: 604
+        width: 1081
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.998535, y: 18.943115}
+        - {x: -71.998535, y: 17.943115}
+        - {x: -71.998535, y: -18.056885}
+        - {x: 72.001465, y: -18.056885}
+        - {x: 72.001465, y: 18.943115}
+    - name: Temple tiles_144
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 597
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.60327, y: 19.510834}
+        - {x: -71.60327, y: 18.510834}
+        - {x: -71.60327, y: -17.489166}
+        - {x: -70.60327, y: -18.489166}
+        - {x: 73.39673, y: -18.489166}
+        - {x: 73.39673, y: 19.510834}
+    - name: Temple tiles_145
+      rect:
+        serializedVersion: 2
+        x: 11667
+        y: 604
+        width: 1073
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.14258, y: 18.943115}
+        - {x: -71.14258, y: 17.943115}
+        - {x: -71.14258, y: -17.056885}
+        - {x: -70.14258, y: -18.056885}
+        - {x: 72.85742, y: -18.056885}
+        - {x: 72.85742, y: 18.943115}
+    - name: Temple tiles_146
+      rect:
+        serializedVersion: 2
+        x: 13528
+        y: 672
+        width: 571
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.78723, y: 18.999626}
+        - {x: -37.78723, y: -2.0003738}
+        - {x: -37.78723, y: -18.000374}
+        - {x: 39.21277, y: -18.000374}
+        - {x: 39.21277, y: 18.999626}
+    - name: Temple tiles_147
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 680
+        width: 578
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.33606, y: 19.565102}
+        - {x: -38.33606, y: 18.565102}
+        - {x: -38.33606, y: -17.434898}
+        - {x: -37.33606, y: -18.434898}
+        - {x: 39.66394, y: -18.434898}
+        - {x: 39.66394, y: 4.5651016}
+        - {x: 37.66394, y: 19.565102}
+    - name: Temple tiles_148
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 394
+        width: 361
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.077042, y: 19.474483}
+        - {x: -24.077042, y: -18.525517}
+        - {x: 24.922958, y: -18.525517}
+        - {x: 24.922958, y: 19.474483}
+    - name: Temple tiles_149
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 387
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.14499, y: 19.542198}
+        - {x: -72.14499, y: -18.457802}
+        - {x: 72.85501, y: -18.457802}
+        - {x: 72.85501, y: 19.542198}
+    - name: Temple tiles_150
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 635
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_151
+      rect:
+        serializedVersion: 2
+        x: 6804
+        y: 635
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Temple tiles_152
+      rect:
+        serializedVersion: 2
+        x: 13026
+        y: 387
+        width: 1073
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.14563, y: 19.042198}
+        - {x: -71.14563, y: 18.042198}
+        - {x: -71.14563, y: -16.957802}
+        - {x: -70.14563, y: -17.957802}
+        - {x: 72.85437, y: -17.957802}
+        - {x: 72.85437, y: 19.042198}
+    - name: Temple tiles_153
+      rect:
+        serializedVersion: 2
+        x: 14301
+        y: 394
+        width: 1070
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.33606, y: 19.474483}
+        - {x: -71.33606, y: -18.525517}
+        - {x: 72.66394, y: -18.525517}
+        - {x: 72.66394, y: 19.474483}
+    - name: Temple tiles_154
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 237
+        width: 1081
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.2045, y: 19.564602}
+        - {x: -72.2045, y: -18.435398}
+        - {x: 72.7955, y: -18.435398}
+        - {x: 72.7955, y: 19.564602}
+    - name: Temple tiles_155
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 237
+        width: 1073
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.75281, y: 19.564602}
+        - {x: -71.75281, y: -18.435398}
+        - {x: 72.24719, y: -18.435398}
+        - {x: 72.24719, y: 19.564602}
+    - name: Temple tiles_156
+      rect:
+        serializedVersion: 2
+        x: 6428
+        y: 349
+        width: 1074
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.89343, y: 18.981205}
+        - {x: -71.89343, y: -18.018795}
+        - {x: 72.10657, y: -18.018795}
+        - {x: 72.10657, y: 18.981205}
+    - name: Temple tiles_157
+      rect:
+        serializedVersion: 2
+        x: 7809
+        y: 304
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.46643, y: 19.487926}
+        - {x: -72.46643, y: -18.512074}
+        - {x: 72.53357, y: -18.512074}
+        - {x: 72.53357, y: 19.487926}
+    - name: Temple tiles_158
+      rect:
+        serializedVersion: 2
+        x: 9370
+        y: 304
+        width: 1074
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.06616, y: 18.987926}
+        - {x: -71.06616, y: 17.987926}
+        - {x: -71.06616, y: -17.012074}
+        - {x: -70.06616, y: -18.012074}
+        - {x: 72.93384, y: -18.012074}
+        - {x: 72.93384, y: 18.987926}
+    - name: Temple tiles_159
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 289
+        width: 1081
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.60327, y: 19.49017}
+        - {x: -71.60327, y: 18.49017}
+        - {x: -71.60327, y: -17.50983}
+        - {x: -70.60327, y: -18.50983}
+        - {x: 73.39673, y: -18.50983}
+        - {x: 73.39673, y: 19.49017}
+    - name: Temple tiles_160
+      rect:
+        serializedVersion: 2
+        x: 11667
+        y: 297
+        width: 1073
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.14258, y: 19.555641}
+        - {x: -71.14258, y: 18.555641}
+        - {x: -71.14258, y: -17.444359}
+        - {x: -70.14258, y: -18.444359}
+        - {x: 72.85742, y: -18.444359}
+        - {x: 72.85742, y: 19.555641}
+    - name: Temple tiles_161
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 368
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.523273, y: 18.5}
+        - {x: -24.523273, y: -18.5}
+        - {x: 25.476727, y: -18.5}
+        - {x: 25.476727, y: 18.5}
+    - name: Temple tiles_162
+      rect:
+        serializedVersion: 2
+        x: 9363
+        y: 4
+        width: 1081
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.998535, y: 19.032736}
+        - {x: -71.998535, y: -17.967264}
+        - {x: 72.001465, y: -17.967264}
+        - {x: 72.001465, y: 19.032736}
+    - name: Temple tiles_163
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 0
+        width: 1081
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.60327, y: 18.5}
+        - {x: -71.60327, y: 17.5}
+        - {x: -71.60327, y: -18.5}
+        - {x: 73.39673, y: -18.5}
+        - {x: 73.39673, y: 18.5}
+    - name: Temple tiles_164
+      rect:
+        serializedVersion: 2
+        x: 11667
+        y: 0
+        width: 1073
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.14258, y: 18.5}
+        - {x: -71.14258, y: 17.5}
+        - {x: -71.14258, y: -18.5}
+        - {x: 72.85742, y: -18.5}
+        - {x: 72.85742, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
